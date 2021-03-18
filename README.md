@@ -1,2 +1,2 @@
 # Home
-Descripción general del HPC OCEANO, infraestructura y acceso
+Descripción general del HPC OCEANO y su infraestructura.
