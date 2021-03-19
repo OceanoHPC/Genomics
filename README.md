@@ -1,6 +1,8 @@
 # Acerca de:
 OCEANO es el cluster HPC de la Escuela de Ciencias del Mar de la Pontificia Universidad Católica de Valparaíso (Chile) para la investigación y sostenibilidad de los ecosistemas acuáticos y sus recursos. El cluster OCEANO fue financiado por el Ministerio de Educación mediante el Concurso de Equipamiento Científico y Tecnológico Mediano FONDEQUIP (EQM150093).
 
+**Director de proyecto**: Dr. José Gallardo
+
 **Objetivos proyecto FONDEQUIP OCEANO**  
 
 1.- Fortalecer líneas de investigación básica y aplicada relacionados a la sostenibilidad de los ecosistemas acuáticos y sus recursos.
