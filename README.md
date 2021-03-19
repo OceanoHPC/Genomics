@@ -3,6 +3,8 @@ OCEANO es el cluster HPC de la Escuela de Ciencias del Mar de la Pontificia Univ
 
 **Director de proyecto**: Dr. José Gallardo
 
+**Director académico**: Prof. Joaquim Bento Pereira
+
 **Objetivos proyecto FONDEQUIP OCEANO**  
 
 1.- Fortalecer líneas de investigación básica y aplicada relacionados a la sostenibilidad de los ecosistemas acuáticos y sus recursos.
