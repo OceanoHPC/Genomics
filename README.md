@@ -1,4 +1,7 @@
-# Acerca de:
+# HPC OCEANO PUCV
+# Pontificia Universidad Católica de Valparaíso - 2021
+# Original author: José Gallardo (jose.gallardo@pucv.cl); edited by Margarita Rivera.
+
 OCEANO es el cluster HPC de la Escuela de Ciencias del Mar de la Pontificia Universidad Católica de Valparaíso (Chile) para la investigación y sostenibilidad de los ecosistemas acuáticos y sus recursos. El cluster OCEANO fue financiado por el Ministerio de Educación mediante el Concurso de Equipamiento Científico y Tecnológico Mediano FONDEQUIP (EQM170214).
 
 **Director de proyecto**: [Dr. José Gallardo](https://github.com/DrJoseGallardo)
