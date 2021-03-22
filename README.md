@@ -1,6 +1,6 @@
 # HPC OCEANO PUCV
 ### Pontificia Universidad Católica de Valparaíso - 2021
-#### Original author: [Dr. José Gallardo](https://github.com/DrJoseGallardo) (jose.gallardo@pucv.cl); edited by Margarita Rivera.
+#### Autor: [Dr. José Gallardo](https://github.com/DrJoseGallardo) (jose.gallardo@pucv.cl); editado por Margarita Rivera.
 
 **Descripción**
 
