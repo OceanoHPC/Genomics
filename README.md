@@ -10,7 +10,8 @@ En este repositorio encontrarás algunos comandos y ejemplos de script para ejec
 
 Guía del Usuario del administrador del cluster aquí *Pendiente*.
 
-Ver nuestra guía para trabajar en el cluster OCEANO aquí: https://github.com/OceanoHPC/OceanoPUCV/wiki
+Ver nuestra guía para trabajar en el cluster OCEANO aquí: https://github.com/OceanoHPC/Genomics/wiki
+
 
 **Objetivos del proyecto FONDEQUIP OCEANO**  
 
