@@ -4,7 +4,11 @@
 
 **Descripción**
 
-OCEANO es el cluster HPC de la Escuela de Ciencias del Mar de la Pontificia Universidad Católica de Valparaíso (Chile) para la investigación y sostenibilidad de los ecosistemas acuáticos y sus recursos. El cluster OCEANO fue financiado por el Ministerio de Educación mediante el Concurso de Equipamiento Científico y Tecnológico Mediano FONDEQUIP (EQM170214) cuyo director fue el **Dr. José Gallardo**. Actualmente el director académico del cluster es el [Prof. Joaquim Bento Pereira](https://github.com/jpbento).
+OCEANO es el cluster HPC de la Escuela de Ciencias del Mar de la Pontificia Universidad Católica de Valparaíso (Chile) para la investigación y sostenibilidad de los ecosistemas acuáticos y sus recursos. El cluster OCEANO fue financiado por el Ministerio de Educación mediante el Concurso de Equipamiento Científico y Tecnológico Mediano FONDEQUIP (EQM170214) cuyo director fue el **Dr. José Gallardo**. 
+
+Director académico del HPC OCÉANO.  
+Octubre 2012 - Marzo 2023: [Prof. Joaquim Bento Pereira](https://github.com/jpbento).  
+Marzo 2023 - a la fecha: [Dr. José Gallardo](https://genomics.pucv.cl).  
 
 En este repositorio encontrarás algunos comandos y ejemplos de script para ejecutar Jobs cluster OCEANO.
 
