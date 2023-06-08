@@ -27,7 +27,7 @@ septiembre 2020 - abril 2023: [Prof. Joaquim Bento Pereira](https://github.com/j
 **Información de contacto**  
 Web: [hpcoceano.pucv.cl](https://hpcoceano.wordpress.com/)  
 Email: oceano@pucv.cl  
-Solicitud de cunetas de usuario: [Solicita tu cuenta de usuario aquí](https://forms.gle/Qee46x6jhQLTLTvZ9)
+Solicitud de cuentas de usuario: [Solicita tu cuenta de usuario aquí](https://forms.gle/Qee46x6jhQLTLTvZ9)
 
 **Políticas de acceso y uso del HPC OCÉANO**  
 Conoce nuestra [política de acceso y uso del HPC Océano en este enlace](https://hpcoceano.files.wordpress.com/2023/05/politica-de-acceso-y-uso-hpc-oceano-1.pdf)
