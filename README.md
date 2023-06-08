@@ -4,17 +4,13 @@
 
 **Descripción**
 
-OCEANO es el cluster HPC de la Escuela de Ciencias del Mar de la Pontificia Universidad Católica de Valparaíso (Chile) para la investigación y sostenibilidad de los ecosistemas acuáticos y sus recursos. El cluster OCEANO fue financiado por el Ministerio de Educación mediante el Concurso de Equipamiento Científico y Tecnológico Mediano FONDEQUIP (EQM170214) cuyo director fue el **Dr. José Gallardo**. 
+OCEANO es el cluster HPC de la Pontificia Universidad Católica de Valparaíso (Chile) para la investigación y sostenibilidad de los ecosistemas acuáticos y sus recursos. El cluster OCEANO fue financiado por el Ministerio de Educación mediante el Concurso de Equipamiento Científico y Tecnológico Mediano FONDEQUIP (EQM170214) cuyo director fue el **Dr. José Gallardo**. 
 
 **Director académico del HPC OCÉANO.**  
-Octubre 2012 - Marzo 2023: [Prof. Joaquim Bento Pereira](https://github.com/jpbento).  
-Marzo 2023 - a la fecha: [Dr. José Gallardo](https://genomics.pucv.cl).  
+abril 2023 - a la fecha: [Dr. José Gallardo](https://genomics.pucv.cl).  
 
-En este repositorio encontrarás algunos comandos y ejemplos de script para ejecutar Jobs cluster OCEANO.
-
-Guía del Usuario del administrador del cluster aquí *Pendiente*.
-
-Ver nuestra guía para trabajar en el cluster OCEANO aquí: https://github.com/OceanoHPC/Genomics/wiki
+**Previos directores académicos del HPC OCÉANO.**  
+septiembre 2020 - abril 2023: [Prof. Joaquim Bento Pereira](https://github.com/jpbento).  
 
 
 **Objetivos del proyecto FONDEQUIP OCEANO**  
@@ -25,5 +21,9 @@ Ver nuestra guía para trabajar en el cluster OCEANO aquí: https://github.com/O
 
 3.- Incrementar los vínculos con la sociedad y contribuir a la toma de decisiones políticas y operacionales relacionados con la sostenibilidad de los ecosistemas acuáticos y sus recursos.
 
+En este repositorio encontrarás algunos comandos y ejemplos de script para ejecutar Jobs cluster OCEANO.
 
+Guía del Usuario del administrador del cluster aquí *Pendiente*.
+
+Ver nuestra guía para trabajar en el cluster OCEANO aquí: https://github.com/OceanoHPC/Genomics/wiki
 
