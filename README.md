@@ -24,15 +24,15 @@ abril 2023 - a la fecha: [Dr. José Gallardo](https://genomics.pucv.cl).
 **Previos directores académicos del HPC OCÉANO.**  
 septiembre 2020 - abril 2023: [Prof. Joaquim Bento Pereira](https://github.com/jpbento).  
 
-**Información de contacto**
+**Información de contacto**  
 Web: [hpcoceano.pucv.cl](https://hpcoceano.wordpress.com/)  
 Email: oceano@pucv.cl  
 
-**Políticas de acceso y uso del HPC OCÉANO**
+**Políticas de acceso y uso del HPC OCÉANO**  
 
-**Recursos disponibles**
+**Recursos disponibles**  
 
-**Guía para usuarios**
+**Guía para usuarios**  
 https://github.com/OceanoHPC/Genomics/wiki
 
 
