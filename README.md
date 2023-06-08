@@ -25,8 +25,8 @@ abril 2023 - a la fecha: [Dr. José Gallardo](https://genomics.pucv.cl).
 septiembre 2020 - abril 2023: [Prof. Joaquim Bento Pereira](https://github.com/jpbento).  
 
 **Información de contacto**
-Web: [hpcoceano.pucv.cl](https://hpcoceano.wordpress.com/)
-Email: oceano@pucv.cl
+Web: [hpcoceano.pucv.cl](https://hpcoceano.wordpress.com/)  
+Email: oceano@pucv.cl  
 
 **Políticas de acceso y uso del HPC OCÉANO**
 
