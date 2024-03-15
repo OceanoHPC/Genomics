@@ -30,10 +30,10 @@ Email: oceano@pucv.cl
 Solicitud de cuentas de usuario: [Solicita tu cuenta de usuario aquí](https://forms.gle/Qee46x6jhQLTLTvZ9)
 
 **Políticas de acceso y uso del HPC OCÉANO**  
-Conoce nuestra [política de acceso y uso del HPC Océano en este enlace](https://hpcoceano.files.wordpress.com/2023/05/politica-de-acceso-y-uso-hpc-oceano-1.pdf)
+Conoce nuestra [política de acceso y uso del HPC Océano en este enlace](https://hpcoceano.files.wordpress.com/2024/03/politica-de-acceso-y-uso-hpc-oceano_v3_2024.pdf)
 
 **Recursos disponibles**  
-Conoce los [recursos disponibles del HPC Océano en este enlace](https://hpcoceano.files.wordpress.com/2023/05/anexo-1-recursos-disponibles-hpc-oceano.pdf)  
+Conoce los [recursos disponibles del HPC Océano en este enlace](https://hpcoceano.files.wordpress.com/2024/03/anexo-1-recursos-disponibles-hpc-oceano_v3_2024.pdf)  
 
 **Guía para usuarios**  
 [Explora nuestras guías de usuario aquí](https://github.com/OceanoHPC/Genomics/wiki)
