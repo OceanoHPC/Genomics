@@ -1,4 +1,4 @@
-# HPC OCEANO
+# HPC Océano PUCV
 
 **Descripción**
 
