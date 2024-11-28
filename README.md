@@ -1,6 +1,6 @@
 # Repositorio HPC Océano PUCV
 
-Los invitamos a nuestras _Palabras de bienvenida y Guías de Usuarios_ a través del [siguiente link](https://github.com/hpcOceanoPUCV/OCEANO-PUCV/wiki).
+Los invitamos a revisar nuestras _palabras de bienvenida y guías de usuarios_ a través del [siguiente link](https://github.com/hpcOceanoPUCV/OCEANO-PUCV/wiki).
 
 **Información de contacto:**  
   
